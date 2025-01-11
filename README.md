@@ -2,6 +2,7 @@ Humanity Protocol 脚本
 
 [点击注册➡](testnet.humanity.org/login?ref=messisy)
 
+
 介绍
 脚本每天自动 Humanity Protocol 签到领取 $RWT 奖励。
 
