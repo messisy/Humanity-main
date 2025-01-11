@@ -1,6 +1,6 @@
 Humanity Protocol 脚本
 
-[点击注册➡](testnet.humanity.org/login?ref=messisy)
+[点击注册➡](https://testnet.humanity.org/login?ref=messisy)
 
 
 介绍
